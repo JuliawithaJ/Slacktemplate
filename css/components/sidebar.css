@@ -1,0 +1,34 @@
+.sidebar{
+	background-color:#4A184B;
+	width: 250px;
+	padding-left:20px;
+	padding-top: 30px;
+	color: white;
+}
+.channels{
+	margin-top:25px;
+}
+.channels > ul{
+	list-style-type: none;
+	padding:0 5px;
+}
+.title-channel{
+	display:flex;
+	justify-content: space-between;
+	align-items: center;
+	padding-right: 10px;
+	margin: 10px 0;
+}
+.fa-slack-hash, .small, .fa-lock , .fa-heart, .fa-circle  {
+	font-size: 10px;
+	padding-right: 10px;
+}
+.fa-heart{
+	color: #55AD77 ;
+}
+ .green{
+	color: #55AD77;
+}
+.big{
+	font-size: 25px;
+}

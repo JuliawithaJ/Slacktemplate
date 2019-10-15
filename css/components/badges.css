@@ -1,0 +1,22 @@
+.badges{
+	background-color: #310D31;
+	width: 100px;
+	padding: 10px 20px;
+	text-align: center;
+}
+.dd{
+	background-color: #5A5A5A;
+	color: white;
+	font-weight: bold;
+	padding: 15px;
+	margin: 20px 0;
+	border-radius: 5px;
+	border: 4px solid white;
+}
+.ev{
+	background-color: #583A5A;
+	color: white;
+	padding: 15px;
+	margin: 20px 0;
+	border-radius: 5px;
+}
